@@ -1,5 +1,6 @@
 # CORE-SG: Efficient Computation of Multiple MSTs for Density-Based Methods
 Authors: Antonio Cavalcante Araujo Neto, Murilo Coelho Naldi, Ricardo J. G. B. Campello, and Jörg Sander
+
 Published in ICDE'2022
 
 ## Abstract
