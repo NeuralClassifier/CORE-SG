@@ -28,7 +28,9 @@ conda install -c conda-forge jupyterlab
 pip install jupyterlab
 ```
 ## Dependencies
+
 The program requires the following Python libraries:
+* numpy v1.21.5
 * scikit-learn v1.0.1
 * pandas v1.3.4
 * scipy v1.7.3
